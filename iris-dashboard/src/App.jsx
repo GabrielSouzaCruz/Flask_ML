@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const API_URL = 'https://mlteste-a5akend9ach6c3h0.westus3-01.azurewebsites.net/api/predict'
+const API_URL = 'https://irisflaskml-enfye5f5bxfcd6bt.brazilsouth-01.azurewebsites.net/api/predict'
 
 const SPECIES_CONFIG = {
   Setosa: {
